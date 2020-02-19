@@ -18,6 +18,7 @@
 <jsp:include page="include/navbar.jsp"></jsp:include>
 <div class="container">
 	<h1>Git Test 인덱스 페이지 입니다.</h1>
+	<h3>test</h3>
 </div>
 </body>
 </html>
