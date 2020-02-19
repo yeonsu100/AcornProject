@@ -17,7 +17,7 @@
 <%-- include/navbar.jsp 를 include 하기 --%>
 <jsp:include page="include/navbar.jsp"></jsp:include>
 <div class="container">
-	<h1>인덱스 페이지 입니다.</h1>
+	<h1>인덱스 페이지 입니다.ss</h1>
 	<ul>
 		<li><a href="shop/buy.jsp?num=1&name=coffee">1번 상품 구입하기</a></li>
 		<li><a href="shop/buy.jsp?num=2&name=sugar">2번 상품 구입하기</a></li>
