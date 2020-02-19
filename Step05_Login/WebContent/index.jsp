@@ -38,6 +38,7 @@
 		<li><a href="fortune">MVC 테스트 (오늘의 운세)</a></li>
 		<li><a href="cafe/list.nhn">MVC 카페글 목록보기</a></li>
 	</ul>
+	<p>1243</p>
 </div>
 </body>
 </html>
