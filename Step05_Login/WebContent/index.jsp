@@ -38,13 +38,7 @@
 		<li><a href="fortune">MVC 테스트 (오늘의 운세)</a></li>
 		<li><a href="cafe/list.nhn">MVC 카페글 목록보기</a></li>
 	</ul>
-	<p>1243</p>
-	<h1>Git Test 인덱스 페이지 입니다.</h1>
-	<h3>test</h3>
-	<h1>이상명</h1>
-	<h1>이상명 pr 테스트</h1>
-	<h1>이상명 pr 테스트 1234</h1>
-	<h1>이상명 pr 테스트 2123</h1>
+
 </div>
 </body>
 </html>
