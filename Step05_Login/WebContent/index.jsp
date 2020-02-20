@@ -39,6 +39,5 @@
 		<li><a href="cafe/list.nhn">MVC 카페글 목록보기</a></li>
 	</ul>
 
-</div>
 </body>
 </html>
