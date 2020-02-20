@@ -43,10 +43,5 @@
 	<h3>test</h3>
 	<h4>철언 연습중</h4>
 </div>
-<<<<<<< HEAD
-=======
-
-
->>>>>>> branch 'hsh' of https://github.com/yeonsu100/AcornProject.git
 </body>
 </html>
