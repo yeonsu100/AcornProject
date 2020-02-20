@@ -38,7 +38,6 @@
 		<li><a href="fortune">MVC 테스트 (오늘의 운세)</a></li>
 		<li><a href="cafe/list.nhn">MVC 카페글 목록보기</a></li>
 	</ul>
-<<<<<<< HEAD
 	<p>1243</p>
 	<h1>Git Test 인덱스 페이지 입니다.</h1>
 	<h3>test</h3>
@@ -47,8 +46,5 @@
 	<h1>누나 미안.. 내일봐요</h1>
 	<h1>누나 미안.. 내일봐요</h1>
 </div>
-=======
-
->>>>>>> branch 'hsh' of https://github.com/yeonsu100/AcornProject.git
 </body>
 </html>
